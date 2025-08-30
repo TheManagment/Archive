@@ -7,8 +7,15 @@ nav {
     background-color: #000;
     border: #f00 2px solid;
     border-radius: 10px;
-    padding: 5px;
+    padding: 15px;
     text-align: center;
+}
+
+nav img {
+    max-width: 95%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
 }
 
 .navLinks ul {
