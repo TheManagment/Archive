@@ -1,6 +1,7 @@
 body {
     background-size: 100% 100%;
     background-attachment: fixed;
+    background-size: cover;
 }
 
 nav {
@@ -76,3 +77,4 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
