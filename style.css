@@ -1,3 +1,5 @@
+@charset "UTF-8";
+
 body {
     background-size: 100% 100%;
     background-attachment: fixed;
@@ -77,4 +79,3 @@ a {
 a:hover {
     text-decoration: underline;
 }
-
