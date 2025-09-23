@@ -65,12 +65,22 @@ main {
     padding: 0 15px;
 }
 
-p, h1 {
-    color: #fff;
-}
-
 .creatorData h5 {
     color: #868686;
+}
+
+.profilePic img {
+    border-radius: 50%;
+    border: #ffffff 4px solid;
+}
+
+.h5SizedImage img {
+    width: 14px;
+    height: 14px;
+}
+
+p, h1 {
+    color: #fff;
 }
 
 a {
