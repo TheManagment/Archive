@@ -65,16 +65,16 @@ main {
     padding: 0 15px;
 }
 
-.creatorData h5 {
+.creatorData {
     color: #868686;
 }
 
-.profilePic img {
+.profilePic {
     border-radius: 50%;
     border: #ffffff 4px solid;
 }
 
-.h5SizedImage img {
+.h5SizedImage {
     width: 14px;
     height: 14px;
 }
