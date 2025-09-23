@@ -69,6 +69,10 @@ p, h1 {
     color: #fff;
 }
 
+h6 {
+    color: #868686;
+}
+
 a {
     color: #f00;
     text-decoration: none;
